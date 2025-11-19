@@ -1,1 +1,3 @@
-# tic-tac-toe
+This Tic Tac Toe project is a simple, interactive game built using HTML, CSS, and JavaScript. It features a clean and responsive layout where two players take turns marking X and O on a 3×3 grid. The game automatically detects winners through row, column, and diagonal combinations, and also identifies a draw when all boxes are filled. A reset button allows players to start a new round instantly. This project is ideal for beginners learning web development concepts like DOM manipulation, event handling, and basic game logic. You can run the game by opening the index.html file in any browser or by using Live Server in VS Code. The project is open-source and can be improved further by adding features such as AI mode, score tracking, sound effects, or animations.
+
+
