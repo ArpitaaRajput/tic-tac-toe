@@ -33,10 +33,10 @@ This project demonstrates core frontend concepts such as **DOM manipulation, eve
 ```
 tic-tac-toe/
 │
-├── index.html # Game structure
-├── style.css # Styling
-├── script.js # Game logic
-└── README.md # Project documentation
+├── index.html 
+├── style.css 
+├── script.js 
+└── README.md
 ```
 
 ---
